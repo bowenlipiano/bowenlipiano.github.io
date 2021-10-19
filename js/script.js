@@ -15,37 +15,37 @@ function setup() {
 
 
     $("#about").hover(function(){
-  $(this).css("color", "#810FF5");
+  $(this).css("color", "#ababab");
   }, function(){
   $(this).css("color", "black");
 });
 
 $("#work").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#ababab");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#cv").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#ababab");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#about2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#ababab");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#work2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#ababab");
 }, function(){
 $(this).css("color", "black");
 });
 
 $("#cv2").hover(function(){
-$(this).css("color", "#810FF5");
+$(this).css("color", "#ababab");
 }, function(){
 $(this).css("color", "black");
 });
