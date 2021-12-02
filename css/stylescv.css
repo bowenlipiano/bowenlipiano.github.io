@@ -10,6 +10,7 @@ This is the style file for this project.
 body {
   margin-left: 0px;
   margin-right: 0px;
+  background-color: #EDEDED;
 }
 
 #header-right > li > a {
@@ -22,8 +23,38 @@ margin-bottom: 80px;
 }
 
 #pianovideo {
-margin-top: 55px;
+margin-top: 20px;
   text-align: center;
+}
+
+#pianovideo2 {
+margin-top: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#videotext {
+  color: black;
+  font-size: 20px;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: 100;
+}
+
+#videotext2 {
+  color: black;
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 100;
+}
+
+#videopagetitle {
+  color: black;
+  font-size: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 100;
 }
 
 .gallery {
