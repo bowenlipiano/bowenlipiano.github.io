@@ -18,11 +18,12 @@ body {
   top: 0;
   left: 0;
   width: 100%;
+  height: 90px;
   overflow: hidden;
-  background-color: white;
+  background-color: #0048ff;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 15px;
-  font-weight:200;
+  font-weight:300;
   z-index: 999;
   letter-spacing: 2px;
 }
@@ -44,12 +45,12 @@ body {
   flex: 1;
   margin-right: 75px;
   margin-top: 17px;
-  color: black;
+  color: white;
 }
 
 #header-right > li > a {
   display: inline;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 20px;
   text-decoration: none;
@@ -75,7 +76,7 @@ body {
 
 .header-middle > li > a {
   display: inline;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 10px;
   text-decoration: none;

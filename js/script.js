@@ -17,37 +17,43 @@ function setup() {
     $("#about").hover(function(){
   $(this).css("color", "#ababab");
   }, function(){
-  $(this).css("color", "black");
+  $(this).css("color", "white");
 });
 
 $("#work").hover(function(){
 $(this).css("color", "#ababab");
 }, function(){
-$(this).css("color", "black");
+$(this).css("color", "white");
 });
 
 $("#cv").hover(function(){
 $(this).css("color", "#ababab");
 }, function(){
-$(this).css("color", "black");
+$(this).css("color", "white");
 });
 
 $("#about2").hover(function(){
 $(this).css("color", "#ababab");
 }, function(){
-$(this).css("color", "black");
+$(this).css("color", "white");
 });
 
 $("#work2").hover(function(){
 $(this).css("color", "#ababab");
 }, function(){
-$(this).css("color", "black");
+$(this).css("color", "white");
 });
 
 $("#cv2").hover(function(){
 $(this).css("color", "#ababab");
 }, function(){
-$(this).css("color", "black");
+$(this).css("color", "white");
+});
+
+$("#lessons").hover(function(){
+$(this).css("color", "#ababab");
+}, function(){
+$(this).css("color", "white");
 });
 
 $("#kalifront").hover(function(){
